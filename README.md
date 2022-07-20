@@ -1,4 +1,4 @@
-# flappybird
+# Flappybird
 
 A new Flutter project.
 
@@ -13,7 +13,12 @@ The game saves the score and shows the high score.
 
 Simple design 
 </br>
-<img src="lib/images/screen.png"  width:50  >
+
+
+<p>
+ <img src="lib/images/screen.png"  width:"500"  height="500"  >
+</p>
+
 
 
 
